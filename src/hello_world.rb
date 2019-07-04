@@ -5,7 +5,7 @@ co_lubie = ['🐷', 'seriale', 'jedzenie' ] #tablica stringów
 
 #hash - jedna rzecz z wieloma wartościami
 zakupy = {
-    'pizza' => 40,
+    'pizza' => 2,
     'stojak na monitor z Apple' => 4000
 }
 
